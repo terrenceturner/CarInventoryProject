@@ -18,13 +18,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/car-inventory-service/src/main/java/com/cosc625/carinventoryservice/dto/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="111" column="18" selection-start-line="111" selection-start-column="18" selection-end-line="111" selection-end-column="18" />
+            <state relative-caret-position="90">
+              <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#1973#1974#0" expanded="true" />
                 <element signature="e#2004#2005#0" expanded="true" />
                 <element signature="e#2052#2053#0" expanded="true" />
@@ -36,10 +35,46 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/car-inventory-service/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/car-inventory-service/src/test/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cloud-config-service/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vin-lookup/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/car-inventory-service/src/main/java/com/cosc625/carinventoryservice/controller/CarInventoryController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-30">
+            <state relative-caret-position="540">
               <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -51,7 +86,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/car-inventory-service/src/main/java/com/cosc625/carinventoryservice/controller/ControllerExceptionHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
+            <state relative-caret-position="705">
               <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -63,7 +98,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/car-inventory-service/src/main/java/com/cosc625/carinventoryservice/dao/CarInventoryRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="255">
               <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -84,7 +119,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/car-inventory-service/src/test/java/com/cosc625/carinventoryservice/controller/CarInventoryControllerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1830">
+            <state relative-caret-position="1500">
               <caret line="122" column="5" selection-start-line="122" selection-start-column="5" selection-end-line="122" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -108,6 +143,9 @@
       <find>@Pro</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -123,8 +161,6 @@
         <option value="$PROJECT_DIR$/vin-lookup/src/main/java/com/cosc625/vinlookup/dto/Vehicle.java" />
         <option value="$PROJECT_DIR$/vin-lookup/src/main/java/com/cosc625/vinlookup/controller/VinLookupController.java" />
         <option value="$PROJECT_DIR$/vin-lookup/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/car-inventory-service/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/car-inventory-service/src/test/resources/application.properties" />
         <option value="$PROJECT_DIR$/car-inventory-secure/src/main/java/com/cosc625/carinventorysecure/SecureConfig.java" />
         <option value="$PROJECT_DIR$/car-inventory-secure/src/main/resources/schema.sql" />
         <option value="$PROJECT_DIR$/car-inventory-secure/src/main/resources/application.properties" />
@@ -147,6 +183,8 @@
         <option value="$PROJECT_DIR$/car-inventory-service/src/main/java/com/cosc625/carinventoryservice/dto/Car.java" />
         <option value="$PROJECT_DIR$/car-inventory-service/src/main/java/com/cosc625/carinventoryservice/dao/CarInventoryRepository.java" />
         <option value="$PROJECT_DIR$/car-inventory-service/src/test/java/com/cosc625/carinventoryservice/dao/CarInventoryRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/car-inventory-service/src/test/resources/application.properties" />
+        <option value="$PROJECT_DIR$/car-inventory-service/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -166,11 +204,12 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="830" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -185,6 +224,135 @@
               <item name="CarInventory" type="b2602c69:ProjectViewProjectNode" />
               <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CarInventory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
+              <item name="car-inventory-secure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarInventory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
+              <item name="car-inventory-secure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarInventory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
+              <item name="car-inventory-secure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarInventory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
+              <item name="car-inventory-secure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarInventory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
+              <item name="car-inventory-secure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="carinventorysecure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarInventory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
+              <item name="car-inventory-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarInventory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
+              <item name="car-inventory-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarInventory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
+              <item name="car-inventory-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarInventory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
+              <item name="car-inventory-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarInventory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
+              <item name="car-inventory-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="carinventoryservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarInventory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
+              <item name="car-inventory-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="carinventoryservice" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarInventory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
+              <item name="car-inventory-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarInventory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
+              <item name="car-inventory-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarInventory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
+              <item name="car-inventory-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarInventory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
+              <item name="vin-lookup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarInventory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
+              <item name="vin-lookup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarInventory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
+              <item name="vin-lookup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CarInventory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CarInventory" type="462c0819:PsiDirectoryNode" />
+              <item name="vin-lookup" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -192,6 +360,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/car-inventory-service/src/test/resources" />
@@ -368,9 +537,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27050054" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -440,13 +610,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vin-lookup/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/eureka-service-registry/src/main/java/com/trilogyed/eurekaserviceregistry/EurekaServiceRegistryApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -465,20 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/car-inventory-service/src/test/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="161" selection-start-line="1" selection-start-column="161" selection-end-line="1" selection-end-column="161" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/car-inventory-service/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="18" selection-start-line="8" selection-end-line="8" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -550,13 +699,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.4.12.Final/hibernate-core-5.4.12.Final.jar!/org/hibernate/proxy/AbstractLazyInitializer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="119" selection-start-line="119" selection-end-line="119" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.4.12.Final/hibernate-core-5.4.12.Final.jar!/org/hibernate/proxy/AbstractLazyInitializer.class" />
     <entry file="file://$PROJECT_DIR$/cloud-config-service/src/main/java/com/trilogyed/cloudconfigservice/CloudConfigServiceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -590,13 +733,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/eureka-service-registry/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cloud-config-service/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="18" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/car-inventory-secure/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -633,13 +769,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/car-inventory-service/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/car-inventory-service/src/main/resources/bootstrap.yml" />
     <entry file="file://$PROJECT_DIR$/car-inventory-secure/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -668,16 +798,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/car-inventory-service/src/test/java/com/cosc625/carinventoryservice/controller/CarInventoryControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1830">
-          <caret line="122" column="5" selection-start-line="122" selection-start-column="5" selection-end-line="122" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vin-lookup/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -692,17 +812,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/car-inventory-service/src/test/java/com/cosc625/carinventoryservice/dao/CarInventoryRepositoryTest.java">
+    <entry file="file://$PROJECT_DIR$/car-inventory-service/src/main/java/com/cosc625/carinventoryservice/dto/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3690">
-          <caret line="260" column="44" selection-start-line="260" selection-start-column="44" selection-end-line="260" selection-end-column="44" />
+        <state relative-caret-position="90">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding>
+            <element signature="e#1973#1974#0" expanded="true" />
+            <element signature="e#2004#2005#0" expanded="true" />
+            <element signature="e#2052#2053#0" expanded="true" />
+            <element signature="e#2092#2093#0" expanded="true" />
+            <element signature="e#2609#2610#0" expanded="true" />
+            <element signature="e#2689#2690#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/car-inventory-service/src/main/java/com/cosc625/carinventoryservice/dao/CarInventoryRepository.java">
+    <entry file="file://$PROJECT_DIR$/car-inventory-service/src/main/java/com/cosc625/carinventoryservice/controller/CarInventoryController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        <state relative-caret-position="540">
+          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -711,7 +839,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/car-inventory-service/src/main/java/com/cosc625/carinventoryservice/controller/ControllerExceptionHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
+        <state relative-caret-position="705">
           <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -719,29 +847,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/car-inventory-service/src/main/java/com/cosc625/carinventoryservice/controller/CarInventoryController.java">
+    <entry file="file://$PROJECT_DIR$/car-inventory-service/src/main/java/com/cosc625/carinventoryservice/dao/CarInventoryRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-30">
-          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+        <state relative-caret-position="255">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/car-inventory-service/src/main/java/com/cosc625/carinventoryservice/dto/Car.java">
+    <entry file="file://$PROJECT_DIR$/car-inventory-service/src/test/java/com/cosc625/carinventoryservice/dao/CarInventoryRepositoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="111" column="18" selection-start-line="111" selection-start-column="18" selection-end-line="111" selection-end-column="18" />
+        <state relative-caret-position="3690">
+          <caret line="260" column="44" selection-start-line="260" selection-start-column="44" selection-end-line="260" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/car-inventory-service/src/test/java/com/cosc625/carinventoryservice/controller/CarInventoryControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="122" column="5" selection-start-line="122" selection-start-column="5" selection-end-line="122" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1973#1974#0" expanded="true" />
-            <element signature="e#2004#2005#0" expanded="true" />
-            <element signature="e#2052#2053#0" expanded="true" />
-            <element signature="e#2092#2093#0" expanded="true" />
-            <element signature="e#2609#2610#0" expanded="true" />
-            <element signature="e#2689#2690#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-config-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vin-lookup/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/car-inventory-service/src/test/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/car-inventory-service/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
         </state>
       </provider>
     </entry>
