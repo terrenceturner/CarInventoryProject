@@ -1,0 +1,45 @@
+version: '3.3'
+services:
+  eureka-service-registry:
+    image: developer.okta.com/eureka-service-registry:0.0.1-SNAPSHOT
+    ports:
+      - 8761:8761
+  cloud-config-service:
+    image: developer.okta.com/cloud-config-serivce:0.0.1-SNAPSHOT
+    volumes:
+      - ./config-data:/var/config-data
+    environment:
+      - JAVA_OPTS=
+        -DEUREKA_SERVER=http://eureka-service-registry:8761/eureka
+        -Dspring.cloud.config.server.native.searchLocations=/var/config-data
+    depends_on:
+      - eureka-service-registry
+    ports:
+      - 8888:8888
+  car-inventory-service:
+    image: developer.okta.com/car-inventory-service:0.0.1-SNAPSHOT
+    environment:
+      - JAVA_OPTS=
+        -DEUREKA_SERVER=http://eureka-service-registry:8761/eureka
+    depends_on:
+      - eureka-service-registry
+      - cloud-config-service
+  vin-lookup:
+    image: developer.okta.com/vin-lookup:0.0.1-SNAPSHOT
+    environment:
+      - JAVA_OPTS=
+        -DEUREKA_SERVER=http://eureka-service-registry:8761/eureka
+    restart: on-failure
+    depends_on:
+      - eureka-service-registry
+      - cloud-config-service
+  car-inventory-secure:
+    image: developer.okta.com/car-inventory-secure:0.0.1-SNAPSHOT
+    environment:
+      - JAVA_OPTS=
+        -DEUREKA_SERVER=http://eureka-service-registry:8761/eureka
+    depends_on:
+      - eureka-service-registry
+      - cloud-config-service
+    ports:
+      - 8080:8080
